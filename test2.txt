@@ -1,0 +1,7 @@
+This is another test, listing animal names and their color
+
+horse
+tiger
+elephant
+bird
+
